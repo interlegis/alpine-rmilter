@@ -1,0 +1,4 @@
+milter:
+  build: .
+  ports: 
+    - 9900
